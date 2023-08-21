@@ -1,4 +1,3 @@
-
 #Calculando o valor do salário descontando o INSS e o Vale Transporte
 
 import math
