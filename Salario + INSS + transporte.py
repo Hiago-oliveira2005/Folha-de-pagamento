@@ -1,4 +1,4 @@
-#Desenvolvido em aula em 18/08/2023 por Jansen K Cara
+
 #Calculando o valor do salário descontando o INSS e o Vale Transporte
 
 import math
